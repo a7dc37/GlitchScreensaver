@@ -1,3 +1,4 @@
+<img width="550" height="313" alt="Preview" src="https://github.com/user-attachments/assets/c0e100e2-2f23-4aed-818e-bdf44792ed56" />
 # Glitch Screensaver
 
 A Windows screensaver that plays a GIF with randomized, never-repeating glitch effects: block cut & relocate, row/pixel displacement, color inversion, channel shift, CRT scanlines, resolution-loss pixelation, and rare "no signal" static bursts.
