@@ -28,7 +28,7 @@ Done. `Install.exe` self-elevates via UAC, installs the screensaver, and picks u
 
 ## Swapping the GIF later
 
-If you want to change the GIF after you've already installed, you'll first need to uninstall the previously installed screensaver with "Add of remove programs" & put the new one in this folder (replacing the old), then run `Install.exe` again.
+If you want to change the GIF after you've already installed, you'll first need to uninstall the previously installed screensaver with Settings → Apps → Installed apps → find **GlitchScreensaver** → Uninstall & put the new one in this folder (replacing the old), then run `Install.exe` again.
 
 ## Notes
 
